@@ -19,7 +19,7 @@ Olá! Sou o Rafael, atualmente em transição para a área de Engenharia de Dado
 
 ## 💼 Experiência Profissional
 
-- **Product Manager** | [Universo do Handpan](https://universodohandpan.com.br)| Junho 2023 - Atual  
+- **Product Manager** | [Universo do Handpan](https://universodohandpan.com.br) | Junho 2023 - Atual  
   Conduzi a arquitetura da informação, design do site e análise de tráfego para criar uma plataforma inovadora no nicho de handpan, integrando habilidades de marketing digital e UX.
 
 - **Analista de Marketing Digital III** | Ânima Educação | Janeiro 2020 - Maio 2023  
