@@ -1,4 +1,4 @@
-# Rafael | Aspiring Data Scientist
+# Rafael | Cientista de Dados
 
 Olá! Sou o Rafael, atualmente em transição para a área de Ciência de Dados, com uma larga experiência em liderança de projetos digitais, websites, e data driven marketing. Tenho paixão por integrar estratégia e tecnologia para gerar resultados impactantes. Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados e Inteligência Artificial, com o objetivo de me especializar na área de dados.
 
