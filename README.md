@@ -1,50 +1,24 @@
-# Rafael | Cientista de Dados
+# Olá, eu sou o Rafael! 👋
 
-Olá! Sou o Rafael, atualmente em transição para a área de Ciência de Dados, com uma larga experiência em liderança de projetos digitais, websites, e data driven marketing. Tenho paixão por integrar estratégia e tecnologia para gerar resultados impactantes. Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados e Inteligência Artificial, com o objetivo de me especializar na área de dados.
+Sou um profissional em transição para a área de **Ciência de Dados e Engenharia de Dados**, trazendo uma bagagem de mais de 15 anos em gestão de projetos digitais, marketing data-driven e produtos web. Acabei de concluir um **Master in Business and Technology (MBT) em Data Science e AI**, e agora estou colocando as mãos na massa com Python, SQL, Machine Learning e muito mais!
 
-## 🛠️ Competências
+## O que eu sei fazer 🛠️
+- **Linguagens**: Python, SQL  
+- **Dados & IA**: Manipulação e limpeza de dados, ETL básico, BI (DataViz com Plotly, Storytelling), Machine Learning (aprendizado supervisionado, modelos de classificação e regressão), noções de Deep Learning e GenAI.
+- **Ferramentas**: Streamlit, Power BI, Google Analytics, Adobe Creative Cloud. 
+- **Passado que soma**: Gestão ágil de projetos, análise de performance e estratégias digitais, inbound marketing, projeto e gestão de sites corporativos.
 
-### Habilidades Atuais
-- **Linguagens de Programação e Consulta**: Python, SQL
-- **Ferramentas de Dados**: Google Analytics, Power BI
-- **Marketing Digital**: Análise de dados, SEO, Inbound Marketing
-- **Projetos Web**: Gestão de portais, coordenação de equipes multidisciplinares
+## Meus projetos recentes 📊
+- **[IDH Expert](https://github.com/rafaelpessi/idh-expert)**: Um app web no Streamlit para analisar e gerar insights para aumentar o IDH de municípios brasileiros (até 100k habitantes). Usei Python, SQL, Pandas e XGBoost pra criar visualizações interativas e um simulador que prevê o impacto de indicadores no IDH. Dá uma olhada no [repositório](https://github.com/rafaelpessi/idh-expert) ou testa direto [aqui](https://idh-expert-yvanrherzhsbjumifmwps6.streamlit.app/)!  
+- Mais ideias na manga enquanto exploro dados reais e testo hipóteses novas.
 
-### Habilidades em Desenvolvimento (Pós-Graduação)
-- **Business Intelligence e Análise Estatística**: Técnicas de análise descritiva de dados, Data Visualization e Storytelling
-- **Machine Learning**: Regressão linear, múltipla e logística, análise fatorial, clustering
-- **Engenharia de Dados**: Estrutura SQL x NoSQL, Data Streaming (APIs), Ferramentas de ETL
-- **Deep Learning e Redes Neurais**: Experimentos com aprendizado profundo e NLP
-- **Design de Produtos de Dados**: CRISP-DM, Gestão Ágil, Prototipagem
+## Um pouco mais sobre mim 🌟
+- **Background**: Já liderei times de portais web, criei estratégias de inbound com blogs e atuomações (ROI de 50x) e usei analytics pra decisões mais inteligentes.  
+- **Missão atual**: Unir essa experiência com ciência de dados e IA pra gerar valor de verdade.  
+- **Curiosidade**: Sou o cara por trás do [Universo do Handpan](https://universodohandpan.com.br), o primeiro site brasileiro sobre esse instrumento irado!
 
-## 💼 Experiência Profissional
+## Vamos trocar uma ideia? 📫
+- **E-mail**: [rafaelpessi@yahoo.com.br](mailto:rafaelpessi@yahoo.com.br)  
+- **LinkedIn**: [linkedin.com/in/rafaelpessi/](https://www.linkedin.com/in/rafaelpessi/)  
 
-- **Product Manager** | [Universo do Handpan](https://universodohandpan.com.br) | Junho 2023 - Atual  
-  Conduzi a arquitetura da informação, design do site e análise de tráfego para criar uma plataforma inovadora no nicho de handpan, integrando habilidades de marketing digital e UX.
-
-- **Analista de Marketing Digital III** | Ânima Educação | Janeiro 2020 - Maio 2023  
-  Gerenciei portais web de cinco universidades, liderando migrações de conteúdo, gerenciando portfolios de cursos, e realizando análises de dados com Google Analytics.
-
-- **Coordenador de Inbound Marketing** | UniSul | Janeiro 2016 - Dezembro 2019  
-  Liderei a criação de conteúdo e estratégias de SEO, gerando um aumento expressivo no tráfego e ROI dos cursos EaD.
-
-- **Product Manager** | UniSul | Janeiro 2011 - Dezembro 2015  
-  Liderei a migração de diversos sites da UniSul para o novo portal institucional, coordenando equipes multidisciplinares de conteúdo, design e tecnologia. Também desenvolvi estratégias de integração com campanhas online e aprimoramento contínuo do portal utilizando Google Analytics.
-
-## 🎓 Formação
-
-- Pós-graduação em Ciência de Dados e IA (em curso)
-- Pós-graduação em Gestão de E-Commerce   
-- Comunicação Social - Jornalismo
-
-## 📫 Vamos conversar?
-
-Se você quiser trocar ideias ou saber mais sobre meu percurso, entre em contato:
-
-- **E-mail**: rafaelpessi@yahoo.com.br
-- **LinkedIn**: [linkedin.com/in/rafael](https://www.linkedin.com/in/rafael-pessi-749bb035/)
-
----
-
-Obrigado por visitar o meu perfil!
-
+Valeu por passar aqui! Tô sempre aberto pra aprender, colaborar e fuçar mais no mundo dos dados. 😄
