@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael! 👋
 
-Sou um profissional em transição para a área de **Ciência de Dados e Engenharia de Dados**, trazendo uma bagagem de mais de 15 anos em gestão de projetos digitais, marketing data-driven e produtos web. Acabei de concluir um **Master in Business and Technology (MBT) em Data Science e AI**, e agora estou colocando as mãos na massa com Python, SQL, Machine Learning e muito mais!
+Sou um profissional em transição para a área de **Ciência de Dados e aplicações com IA generativa**, trazendo uma bagagem de mais de 15 anos em gestão de projetos digitais, marketing data-driven e produtos web. Acabei de concluir um **Master in Business and Technology (MBT) em Data Science e AI**, e agora estou colocando as mãos na massa com Python, SQL, Machine Learning e explorando o poder da IA generativa em novos cursos e projetos!
 
 ## O que eu sei fazer 🛠️
 - **Linguagens**: Python, SQL  
